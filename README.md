@@ -3,7 +3,12 @@
 Welcome to my GitHub profile! I am passionate about developing robust and efficient software solutions, particularly in Java. From enterprise-level applications to innovative AI-driven projects, I love tackling challenges head-on and crafting solutions that make a difference.
 
 ## 🔥 Tech Stack & Expertise  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap)  ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql)  ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDE-000000?style=flat-square&logo=intellij-idea)  ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5)  ![DevOps](https://img.shields.io/badge/-DevOps-0077B5?style=flat-square&logo=githubactions)  ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-5865F2?style=flat-square&logo=discord)  
+![JAVA](https://img.shields.io/badge/Java---?style=for-the-badge&logo=openjdk&color=orange)
+ ![PYTHON](https://img.shields.io/badge/Python---?style=for-the-badge&logo=python&color=1e415e)
+ ![SPRING](https://img.shields.io/badge/Spring%20boot---?style=for-the-badge&logo=spring-boot&color=3e6624)
+ ![SAP](https://img.shields.io/badge/SAP---?style=for-the-badge&logo=sap&color=0a77b2) ![SQL](https://img.shields.io/badge/SQL---?style=for-the-badge&logo=mariadb&color=a8a8a8) ![NOSQL](https://img.shields.io/badge/NOSQL---?style=for-the-badge&logo=mongodb&color=255823)
+![INTELLIJ](https://img.shields.io/badge/Intellij%20Enjoyer---?style=for-the-badge&logo=intellij-idea&color=151b23) ![JUNIT](https://img.shields.io/badge/JUnit%20testing---?style=for-the-badge&logo=junit5&color=135433) ![DEVOPS](https://img.shields.io/badge/DevOps---?style=for-the-badge&logo=githubactions&color=185b6f) ![DCBOTS](https://img.shields.io/badge/Discord%20Bots---?style=for-the-badge&logo=discord&color=3c45a5)
+
 
 ## 🎓 Education  
 **Bachelor of Science - Applied Computer Science** | *(2019 - 2025)*  
