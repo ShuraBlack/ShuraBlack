@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I am passionate about developing robust and effici
 
 
 ## 🎓 Education  
-**Bachelor of Science - Applied Computer Science** | *(2019 - 2025)*  
+**Bachelor of Science - Applied Computer Science**
 - Specialized in Artificial Intelligence (Symbolic & Connectionist AI, Mobile Robotics, Parallel Computing, Computer Graphics/Vision)  
 - Thesis: Temporal Evolution of Large Language Model Capabilities 
 
-**State-Certified Assistant for Product Design** | *(2016 - 2018)*  
+**State-Certified Assistant for Product Design**
 - Acquired practical experience in design processes, material science, and manufacturing techniques  
 - Developed innovative design concepts using Adobe CC & CAD tools  
 
