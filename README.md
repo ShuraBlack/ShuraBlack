@@ -5,18 +5,17 @@ Welcome to my GitHub profile! I am passionate about developing robust and effici
 ## 🔥 Tech Stack & Expertise  
 ![JAVA](https://img.shields.io/badge/Java---?style=for-the-badge&logo=openjdk&color=orange)
 ![PYTHON](https://img.shields.io/badge/Python---?style=for-the-badge&logo=python&color=1e415e)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![SPRING](https://img.shields.io/badge/Spring%20boot---?style=for-the-badge&logo=spring-boot&color=3e6624)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
-![SAP](https://img.shields.io/badge/SAP---?style=for-the-badge&logo=sap&color=0a77b2)
+![SAP](https://img.shields.io/badge/SAP---?style=for-the-badge&logo=sap&color=0a77b2)&nbsp;&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/SQL---?style=for-the-badge&logo=mariadb&color=a8a8a8)
-![NOSQL](https://img.shields.io/badge/NOSQL---?style=for-the-badge&logo=mongodb&color=255823)
+![NOSQL](https://img.shields.io/badge/NOSQL---?style=for-the-badge&logo=mongodb&color=255823)&nbsp;&nbsp;&nbsp;
 ![INTELLIJ](https://img.shields.io/badge/JetBrains%20Intellij---?style=for-the-badge&logo=intellij-idea&color=151b23)
-![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
+![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?logo=jetbrains&logoColor=white&style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![JUNIT](https://img.shields.io/badge/JUnit%20testing---?style=for-the-badge&logo=junit5&color=135433)
 ![DEVOPS](https://img.shields.io/badge/DevOps---?style=for-the-badge&logo=githubactions&color=185b6f)
-![DCBOTS](https://img.shields.io/badge/Discord%20Bots---?style=for-the-badge&logo=discord&color=3c45a5)
-
+![DCBOTS](https://img.shields.io/badge/Social%20Bots---?style=for-the-badge&logo=discord&color=3c45a5)
 
 ## 🎓 Education  
 **Bachelor of Science - Applied Computer Science**
